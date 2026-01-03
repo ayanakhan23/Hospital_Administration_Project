@@ -13,19 +13,6 @@ Poor patient experience and outcomes
 Risk to hospital reputation and regulatory compliance
 The challenge was to identify key drivers of readmissions and provide actionable insights that support better clinical and administrative decision-making.
 
-Stakeholders - 
-This analysis is designed to support multiple hospital stakeholders:
-Internal Stakeholders :-
-Hospital Board & Trustees – strategic oversight and cost control
-C‑Suite Executives – operations, compliance, and performance metrics
-Department Heads – staffing, workflow, and resource planning
-Physicians & Nurses – improving quality of care and treatment outcomes
-Administrative Staff – scheduling, records, and coordination
-External Stakeholders :-
-Patients & Caregivers – improved health outcomes
-Insurance Providers – cost efficiency
-Government & Regulators – quality and compliance standards
-
 Dataset Information :-
 Source: Kaggle – Hospital Administration Data
 Records: Patient encounters with demographic, clinical, and utilization details
