@@ -89,7 +89,8 @@ understanding, can deliver meaningful insights in healthcare. The analysis provi
 hospitals to design targeted interventions, improve patient outcomes, and reduce unnecessary readmissions.
 
 Author -
-Ayana Khan
+Ayana Khan     
+
 Data Analytics Case Study – Healthcare Domain
 
 
