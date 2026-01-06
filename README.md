@@ -8,9 +8,9 @@ This entire project was completed using Microsoft Excel, focusing on strong anal
 
 Problem Statement - 
 The hospital observed a rise in patient readmission rates, leading to:
-Increased healthcare costs
-Poor patient experience and outcomes
-Risk to hospital reputation and regulatory compliance
+Increased healthcare costs ,
+Poor patient experience and outcomes ,
+Risk to hospital reputation and regulatory compliance ,
 The challenge was to identify key drivers of readmissions and provide actionable insights that support better clinical and administrative decision-making.
 
 Dataset Information :-
@@ -21,66 +21,67 @@ Target Variable: readmitted
 0 → Not readmitted
 
 Key Features - 
-Patient demographics: age, race, gender
-Hospital stay details: time_in_hospital, medical_specialty
-Clinical activity: lab procedures, medications, diagnoses
-Prior utilization: outpatient, emergency, inpatient visits
+Patient demographics: age, race, gender ,
+Hospital stay details: time_in_hospital, medical_specialty ;
+Clinical activity: lab procedures, medications, diagnoses  ;
+Prior utilization: outpatient, emergency, inpatient visits ;
 Diabetes-related indicators and medication changes
+
 Note: Weight data contains significant missing values and was treated cautiously during analysis.
 Community – access to reliable healthcare services
 
 Tools Used - 
-Microsoft Excel only
-Data cleaning & filtering
-Pivot tables & pivot charts
-Conditional formatting
-Correlation analysis
+Microsoft Excel only ,
+Data cleaning & filtering ,
+Pivot tables & pivot charts ,
+Conditional formatting ,
+Correlation analysis ,
 Descriptive statistics
 
 Analysis Performed - 
 Basic-Level Analysis -
-Readmission rate distribution by age group
-Average length of stay by medical specialty
-Impact of emergency visits on readmissions
-Readmission rates among diabetic patients
-Effect of medication changes on readmissions
-Lab procedures vs readmission trends
-Readmission variation by race and gender
+Readmission rate distribution by age group ,
+Average length of stay by medical specialty ,
+Impact of emergency visits on readmissions ,
+Readmission rates among diabetic patients ,
+Effect of medication changes on readmissions ,
+Lab procedures vs readmission trends ,
+Readmission variation by race and gender ,
 Medication count vs length of stay
 
 Medium-Level Analysis -
-Impact of multiple diagnoses (comorbidities)
-Prior hospital utilization patterns
-Demographic differences in treatments
+Impact of multiple diagnoses (comorbidities) ,
+Prior hospital utilization patterns ,
+Demographic differences in treatments ,
 Specialty-based prescribing patterns
 
 Advanced Thinking (Conceptual) -
-High-risk patient identification logic
-Patient segmentation ideas based on utilization
-Financial impact perspective of readmissions
+High-risk patient identification logic ,
+Patient segmentation ideas based on utilization ,
+Financial impact perspective of readmissions ,
 Ethical and privacy considerations in healthcare analytics
 
 Key Insights -
-Elderly patients (70+ age groups) showed higher readmission rates
-Patients with frequent emergency visits had a strong association with readmissions
-Longer hospital stays were often linked with complex diagnoses and multiple medications
-Diabetic patients with medication changes had higher readmission probability
+Elderly patients (70+ age groups) showed higher readmission rates ,
+Patients with frequent emergency visits had a strong association with readmissions ,
+Longer hospital stays were often linked with complex diagnoses and multiple medications ,
+Diabetic patients with medication changes had higher readmission probability ,
 Certain medical specialties consistently showed longer average stays
 
 These insights highlight opportunities for:-
-Better discharge planning
-Targeted post‑discharge follow‑ups
+Better discharge planning ,
+Targeted post‑discharge follow‑ups ,
 Improved chronic disease management programs
 
 Business Impact -
-Supports hospital leadership in reducing avoidable readmissions
-Helps optimize resource allocation and staffing
-Improves patient care quality and satisfaction
+Supports hospital leadership in reducing avoidable readmissions ,
+Helps optimize resource allocation and staffing ,
+Improves patient care quality and satisfaction ,
 Encourages preventive and data-driven healthcare strategies
 
 Ethical Considerations -
-Patient privacy and data confidentiality were respected
-Analysis focused on trends, not individual profiling
+Patient privacy and data confidentiality were respected ,
+Analysis focused on trends, not individual profiling ,
 Insights intended for quality improvement, not discrimination
 
 Conclusion -
